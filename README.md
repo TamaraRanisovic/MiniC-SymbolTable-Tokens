@@ -1,8 +1,8 @@
 # MiniC-SymbolTable-Tokens
 
-Display of parsing results (symbol table, tokens) for MiniC
+Prikaz rezultata parsiranja (symbol table, tokens) za MiniC
 
-
+Resenje predstavlja prosirenje micko kompajlera (https://github.com/zsuvajdzin/micko)
 
 
 
@@ -18,3 +18,4 @@ Podrzani iskazi i izrazi:
 - for
 - iterate
 - uslovni izraz
+
